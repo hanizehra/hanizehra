@@ -133,20 +133,6 @@
 
 ---
 
-### 🐍 contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanizehra/hanizehra/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanizehra/hanizehra/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hanizehra/hanizehra/output/github-snake.svg"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&section=footer&text=&fontSize=0" width="100%"/>
